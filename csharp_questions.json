@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which keyword is used to create an object in C#?",
+    "answer_1": "class",
+    "answer_2": "new",
+    "answer_3": "this",
+    "answer_4": "object",
+    "right_answer": "new"
+  },
+  {
+    "title": "Which data type is used to store true or false values?",
+    "answer_1": "int",
+    "answer_2": "string",
+    "answer_3": "bool",
+    "answer_4": "char",
+    "right_answer": "bool"
+  },
+  {
+    "title": "Which keyword is used to prevent a class from being inherited?",
+    "answer_1": "static",
+    "answer_2": "abstract",
+    "answer_3": "sealed",
+    "answer_4": "virtual",
+    "right_answer": "sealed"
+  },
+  {
+    "title": "What is the main purpose of a constructor in C#?",
+    "answer_1": "To destroy an object",
+    "answer_2": "To initialize an object",
+    "answer_3": "To inherit a class",
+    "answer_4": "To return a value",
+    "right_answer": "To initialize an object"
+  },
+  {
+    "title": "Which keyword allows a method to be overridden in a derived class?",
+    "answer_1": "static",
+    "answer_2": "virtual",
+    "answer_3": "private",
+    "answer_4": "const",
+    "right_answer": "virtual"
+  },
+  {
+    "title": "What is the purpose of an interface in C#?",
+    "answer_1": "To store database records",
+    "answer_2": "To define a contract for implementing classes",
+    "answer_3": "To create objects directly",
+    "answer_4": "To prevent inheritance",
+    "right_answer": "To define a contract for implementing classes"
+  },
+  {
+    "title": "Which keyword is used to handle exceptions in C#?",
+    "answer_1": "catch",
+    "answer_2": "throw",
+    "answer_3": "try",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "What is Dependency Injection in .NET Core?",
+    "answer_1": "A way to manage database tables",
+    "answer_2": "A design pattern for providing dependencies to classes",
+    "answer_3": "A method for creating HTML pages",
+    "answer_4": "A tool for compiling code",
+    "right_answer": "A design pattern for providing dependencies to classes"
+  },
+  {
+    "title": "Which file is commonly used to configure application settings in ASP.NET Core?",
+    "answer_1": "index.html",
+    "answer_2": "web.config",
+    "answer_3": "appsettings.json",
+    "answer_4": "settings.xml",
+    "right_answer": "appsettings.json"
+  },
+  {
+    "title": "Which method is commonly used to register services in the ASP.NET Core dependency injection container?",
+    "answer_1": "app.Run()",
+    "answer_2": "builder.Services.AddScoped()",
+    "answer_3": "app.UseRouting()",
+    "answer_4": "builder.Build()",
+    "right_answer": "builder.Services.AddScoped()"
+  }
+]

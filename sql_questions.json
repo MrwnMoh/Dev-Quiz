@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which SQL statement is used to retrieve data from a database?",
+    "answer_1": "INSERT",
+    "answer_2": "UPDATE",
+    "answer_3": "SELECT",
+    "answer_4": "DELETE",
+    "right_answer": "SELECT"
+  },
+  {
+    "title": "Which SQL clause is used to filter records?",
+    "answer_1": "ORDER BY",
+    "answer_2": "WHERE",
+    "answer_3": "GROUP BY",
+    "answer_4": "SELECT",
+    "right_answer": "WHERE"
+  },
+  {
+    "title": "Which SQL command is used to add new records to a table?",
+    "answer_1": "ADD",
+    "answer_2": "CREATE",
+    "answer_3": "INSERT INTO",
+    "answer_4": "UPDATE",
+    "right_answer": "INSERT INTO"
+  },
+  {
+    "title": "Which SQL constraint uniquely identifies each record in a table?",
+    "answer_1": "FOREIGN KEY",
+    "answer_2": "NOT NULL",
+    "answer_3": "PRIMARY KEY",
+    "answer_4": "DEFAULT",
+    "right_answer": "PRIMARY KEY"
+  },
+  {
+    "title": "Which SQL keyword is used to sort query results?",
+    "answer_1": "GROUP BY",
+    "answer_2": "ORDER BY",
+    "answer_3": "SORT",
+    "answer_4": "ARRANGE",
+    "right_answer": "ORDER BY"
+  },
+  {
+    "title": "Which JOIN returns only matching records from both tables?",
+    "answer_1": "LEFT JOIN",
+    "answer_2": "RIGHT JOIN",
+    "answer_3": "FULL JOIN",
+    "answer_4": "INNER JOIN",
+    "right_answer": "INNER JOIN"
+  },
+  {
+    "title": "Which SQL function counts the number of rows?",
+    "answer_1": "SUM()",
+    "answer_2": "AVG()",
+    "answer_3": "COUNT()",
+    "answer_4": "MAX()",
+    "right_answer": "COUNT()"
+  },
+  {
+    "title": "Which SQL command is used to modify existing records?",
+    "answer_1": "UPDATE",
+    "answer_2": "ALTER",
+    "answer_3": "MODIFY",
+    "answer_4": "CHANGE",
+    "right_answer": "UPDATE"
+  },
+  {
+    "title": "What is the main purpose of a FOREIGN KEY?",
+    "answer_1": "To uniquely identify records",
+    "answer_2": "To create a relationship between tables",
+    "answer_3": "To sort records",
+    "answer_4": "To delete duplicate records",
+    "right_answer": "To create a relationship between tables"
+  },
+  {
+    "title": "Which SQL command removes all records from a table without deleting the table itself?",
+    "answer_1": "DROP",
+    "answer_2": "DELETE DATABASE",
+    "answer_3": "TRUNCATE TABLE",
+    "answer_4": "REMOVE",
+    "right_answer": "TRUNCATE TABLE"
+  }
+]

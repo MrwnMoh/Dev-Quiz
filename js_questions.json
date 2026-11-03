@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which keyword is used to declare a variable that can be reassigned?",
+    "answer_1": "const",
+    "answer_2": "let",
+    "answer_3": "static",
+    "answer_4": "final",
+    "right_answer": "let"
+  },
+  {
+    "title": "Which operator is used to compare both value and data type?",
+    "answer_1": "==",
+    "answer_2": "=",
+    "answer_3": "===",
+    "answer_4": "!=",
+    "right_answer": "==="
+  },
+  {
+    "title": "What is the data type of NaN in JavaScript?",
+    "answer_1": "NaN",
+    "answer_2": "undefined",
+    "answer_3": "number",
+    "answer_4": "string",
+    "right_answer": "number"
+  },
+  {
+    "title": "Which method converts a string into an integer?",
+    "answer_1": "Number()",
+    "answer_2": "parseInt()",
+    "answer_3": "toString()",
+    "answer_4": "parseFloat()",
+    "right_answer": "parseInt()"
+  },
+  {
+    "title": "Which loop is guaranteed to execute at least once?",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "for...of",
+    "answer_4": "do...while",
+    "right_answer": "do...while"
+  },
+  {
+    "title": "What does the typeof operator return for an undefined value?",
+    "answer_1": "null",
+    "answer_2": "undefined",
+    "answer_3": "object",
+    "answer_4": "string",
+    "right_answer": "undefined"
+  },
+  {
+    "title": "Which method adds one or more elements to the end of an array?",
+    "answer_1": "pop()",
+    "answer_2": "shift()",
+    "answer_3": "push()",
+    "answer_4": "unshift()",
+    "right_answer": "push()"
+  },
+  {
+    "title": "What is the result of Boolean(0)?",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "undefined",
+    "answer_4": "null",
+    "right_answer": "false"
+  },
+  {
+    "title": "Which statement is used to skip the current iteration of a loop?",
+    "answer_1": "break",
+    "answer_2": "return",
+    "answer_3": "continue",
+    "answer_4": "exit",
+    "right_answer": "continue"
+  },
+  {
+    "title": "What does the return keyword do inside a function?",
+    "answer_1": "Repeats the function",
+    "answer_2": "Stops the function and returns a value",
+    "answer_3": "Declares a variable",
+    "answer_4": "Calls another function",
+    "right_answer": "Stops the function and returns a value"
+  }
+]

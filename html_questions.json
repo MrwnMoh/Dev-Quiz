@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Why we user <br> element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Add Horizontal Line",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "Which HTML element is used to display an image?",
+    "answer_1": "<picture>",
+    "answer_2": "<img>",
+    "answer_3": "<image>",
+    "answer_4": "<src>",
+    "right_answer": "<img>"
+  },
+  {
+    "title": "What is the purpose of the <ul> element?",
+    "answer_1": "To Create an Ordered List",
+    "answer_2": "To Create an Unordered List",
+    "answer_3": "To Create a Table",
+    "answer_4": "To Create a Form",
+    "right_answer": "To Create an Unordered List"
+  },
+  {
+    "title": "Which attribute specifies the URL of a link?",
+    "answer_1": "src",
+    "answer_2": "alt",
+    "answer_3": "href",
+    "answer_4": "target",
+    "right_answer": "href"
+  },
+  {
+    "title": "What is the purpose of the alt attribute in the <img> element?",
+    "answer_1": "To Change Image Size",
+    "answer_2": "To Add Alternative Text",
+    "answer_3": "To Add a Border",
+    "answer_4": "To Change Image Format",
+    "right_answer": "To Add Alternative Text"
+  },
+  {
+    "title": "Which HTML element is used to create a table row?",
+    "answer_1": "<td>",
+    "answer_2": "<th>",
+    "answer_3": "<tr>",
+    "answer_4": "<table>",
+    "right_answer": "<tr>"
+  },
+  {
+    "title": "Which attribute is used to open a link in a new tab?",
+    "answer_1": "target=\"_blank\"",
+    "answer_2": "href=\"_blank\"",
+    "answer_3": "new=\"tab\"",
+    "answer_4": "open=\"new\"",
+    "right_answer": "target=\"_blank\""
+  },
+  {
+    "title": "Which HTML element is used to collect user input?",
+    "answer_1": "<input>",
+    "answer_2": "<output>",
+    "answer_3": "<data>",
+    "answer_4": "<label>",
+    "right_answer": "<input>"
+  },
+  {
+    "title": "What is the purpose of the <label> element?",
+    "answer_1": "To Create a Button",
+    "answer_2": "To Define a Label for an Input",
+    "answer_3": "To Add a Heading",
+    "answer_4": "To Validate a Form",
+    "right_answer": "To Define a Label for an Input"
+  },
+  {
+    "title": "Which HTML element defines the main content of a document?",
+    "answer_1": "<section>",
+    "answer_2": "<article>",
+    "answer_3": "<main>",
+    "answer_4": "<header>",
+    "right_answer": "<main>"
+  }
+]

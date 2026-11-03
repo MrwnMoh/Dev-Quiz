@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which CSS property is used to change text color?",
+    "answer_1": "background-color",
+    "answer_2": "font-color",
+    "answer_3": "color",
+    "answer_4": "text-color",
+    "right_answer": "color"
+  },
+  {
+    "title": "Which CSS property is used to change the background color?",
+    "answer_1": "color",
+    "answer_2": "background-color",
+    "answer_3": "bg-color",
+    "answer_4": "background",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which CSS property controls the size of text?",
+    "answer_1": "font-style",
+    "answer_2": "text-size",
+    "answer_3": "font-size",
+    "answer_4": "size",
+    "right_answer": "font-size"
+  },
+  {
+    "title": "Which CSS property is used to make text bold?",
+    "answer_1": "font-weight",
+    "answer_2": "font-style",
+    "answer_3": "text-decoration",
+    "answer_4": "font-family",
+    "right_answer": "font-weight"
+  },
+  {
+    "title": "Which CSS property is used to add space inside an element?",
+    "answer_1": "margin",
+    "answer_2": "padding",
+    "answer_3": "border",
+    "answer_4": "spacing",
+    "right_answer": "padding"
+  },
+  {
+    "title": "Which CSS property is used to create a flexible layout?",
+    "answer_1": "position",
+    "answer_2": "display: block",
+    "answer_3": "display: flex",
+    "answer_4": "float",
+    "right_answer": "display: flex"
+  },
+  {
+    "title": "Which CSS property controls the space between grid columns?",
+    "answer_1": "margin",
+    "answer_2": "gap",
+    "answer_3": "padding",
+    "answer_4": "spacing",
+    "right_answer": "gap"
+  },
+  {
+    "title": "What does the z-index property control?",
+    "answer_1": "Element Width",
+    "answer_2": "Element Height",
+    "answer_3": "Stacking Order",
+    "answer_4": "Text Alignment",
+    "right_answer": "Stacking Order"
+  },
+  {
+    "title": "Which CSS pseudo-class is used when the mouse moves over an element?",
+    "answer_1": ":active",
+    "answer_2": ":focus",
+    "answer_3": ":hover",
+    "answer_4": ":visited",
+    "right_answer": ":hover"
+  },
+  {
+    "title": "What does the value 1fr represent in CSS Grid?",
+    "answer_1": "One Fixed Pixel",
+    "answer_2": "One Fraction of Available Space",
+    "answer_3": "One Percentage",
+    "answer_4": "One Grid Row",
+    "right_answer": "One Fraction of Available Space"
+  }
+]

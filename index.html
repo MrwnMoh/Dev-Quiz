@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="icon" type="image/png" href="images/DevQuizLogo.png" />
+    <title>Dev Quiz</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js"></script>
+  </head>
+  <body >
+    
+    <header id="header"></header>
+
+    <div class="hero">
+      <h1>Test Your Skills.</h1>
+      <h1>Boost Your Knowledge.</h1>
+      <p>
+        Level up your programming skills with interactive quizzes in JavaScript,
+        HTML, Python, SQL, C++, and more. Designed for developers by developers.
+      </p>
+      <div class="heroBtns">
+        <button class="start" onclick="randomQuiz()">Start a Quiz Now</button>
+        <button class="explor" onclick="openPreviousQuizzes()">
+          <i class="fa-regular fa-clock"></i> Explor Previous Quizzes
+        </button>
+      </div>
+    </div>
+
+    <main>
+      <div class="exams">
+        <div class="exam">
+          <span class="selectedCategory html">HTML</span>
+          <h3>HTML Structure & Semantics</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('HTML')">Start Quiz</button>
+          </div>
+        </div>
+        <div class="exam">
+          <span class="selectedCategory css">CSS</span>
+          <h3>CSS3 Layouts & Styling</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('CSS')">Start Quiz</button>
+          </div>
+        </div>
+      <div class="exam">
+          <span class="selectedCategory js">JS</span>
+          <h3>JavaScript Fundamentals</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('JS')">Start Quiz</button>
+          </div>
+        </div>
+        <div class="exam">
+          <span class="selectedCategory csharp">C#</span>
+          <h3>C# &.Net Core</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('Csharp')">Start Quiz</button>
+          </div>
+        </div>
+        <div class="exam">
+          <span class="selectedCategory sql">SQL</span>
+          <h3>SQL Fundamentals</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('SQL')">Start Quiz</button>
+          </div>
+        </div>
+        <div class="exam">
+          <span class="selectedCategory cpp">C++</span>
+          <h3>C++ Fundamentals</h3>
+          <p>10 questions included in this test module.</p>
+          <hr />
+          <div>
+            <p>10 Questions</p>
+            <button class="start" onclick="startQuiz('CPP')">Start Quiz</button>
+          </div>
+        </div>
+    </main>
+
+    <footer id="footer"></footer>
+    
+  </body>
+</html>

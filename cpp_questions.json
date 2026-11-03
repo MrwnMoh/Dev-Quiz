@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which function is the entry point of a C++ program?",
+    "answer_1": "start()",
+    "answer_2": "main()",
+    "answer_3": "run()",
+    "answer_4": "execute()",
+    "right_answer": "main()"
+  },
+  {
+    "title": "Which header file is required to use cout and cin?",
+    "answer_1": "<string>",
+    "answer_2": "<math.h>",
+    "answer_3": "<iostream>",
+    "answer_4": "<stdio.h>",
+    "right_answer": "<iostream>"
+  },
+  {
+    "title": "Which operator is used to get the address of a variable?",
+    "answer_1": "*",
+    "answer_2": "&",
+    "answer_3": "%",
+    "answer_4": "->",
+    "right_answer": "&"
+  },
+  {
+    "title": "Which keyword is used to declare a constant variable?",
+    "answer_1": "static",
+    "answer_2": "final",
+    "answer_3": "const",
+    "answer_4": "fixed",
+    "right_answer": "const"
+  },
+  {
+    "title": "Which loop executes its body at least once?",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "do-while",
+    "answer_4": "foreach",
+    "right_answer": "do-while"
+  },
+  {
+    "title": "What is the purpose of a pointer in C++?",
+    "answer_1": "To store a memory address",
+    "answer_2": "To store only strings",
+    "answer_3": "To create loops",
+    "answer_4": "To define classes",
+    "right_answer": "To store a memory address"
+  },
+  {
+    "title": "Which keyword is used to create a class in C++?",
+    "answer_1": "object",
+    "answer_2": "struct",
+    "answer_3": "class",
+    "answer_4": "define",
+    "right_answer": "class"
+  },
+  {
+    "title": "What is the purpose of a constructor in C++?",
+    "answer_1": "To destroy an object",
+    "answer_2": "To initialize an object",
+    "answer_3": "To return a value",
+    "answer_4": "To delete a class",
+    "right_answer": "To initialize an object"
+  },
+  {
+    "title": "Which access specifier allows class members to be accessed only inside the class?",
+    "answer_1": "public",
+    "answer_2": "protected",
+    "answer_3": "private",
+    "answer_4": "global",
+    "right_answer": "private"
+  },
+  {
+    "title": "Which concept allows multiple functions to have the same name with different parameters?",
+    "answer_1": "Inheritance",
+    "answer_2": "Encapsulation",
+    "answer_3": "Function Overloading",
+    "answer_4": "Abstraction",
+    "right_answer": "Function Overloading"
+  }
+]
