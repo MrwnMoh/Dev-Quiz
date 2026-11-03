@@ -315,7 +315,7 @@ function deleteAllAnswersResult() {
 }
 
 function startQuiz(category) {
-  window.location.href = `/quiz.html?category=${category}`;
+  window.location.href = `quiz.html?category=${category}`;
 }
 
 function randomQuiz() {
